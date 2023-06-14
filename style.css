@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(234, 236, 215);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.class {
+    font-size: medium;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
